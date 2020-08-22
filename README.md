@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I am Subhash Konar
 
-I am a Java full stack developer with 4 years of industry experience building J2EE and web applications.
+I am a Java developer with 4 years of industry experience building J2EE and web applications.
 I specialize in Java and have professional experience working with J2EE technologies, Spring Boot, Web services , SQL, Oracle.
 🌱 I’m currently learning Spring Boot MicroServices
 
